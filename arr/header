@@ -1,0 +1,54 @@
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Upgrade-Insecure-Requests: 1
+HOST : https://w3schools.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Connection: keep-alive
+
+
+Accept-Encoding: gzip, deflate, br
+
+
+Request URL: https://www.w3schools.com/
+Request Method: GET
+Status Code: 200
+Remote Address: 192.229.179.87:443
+Referrer Policy: strict-origin-when-cross-origin
+Accept-Ranges: bytes
+Age: 821
+Cache-Control: Public,public
+Content-Encoding: gzip
+Content-Length: 359975
+Content-Security-Policy: frame-ancestors 'self' https://mycourses.w3schools.com;
+Content-Type: text/html
+Date: Mon, 18 Sep 2023 09:32:33 GMT
+Expires: Mon, 18 Sep 2023 13:32:33 GMT
+Last-Modified: Mon, 18 Sep 2023 09:18:52 GMT
+Server: ECS (tir/CDD4)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Content-Security-Policy: frame-ancestors 'self' https://mycourses.w3schools.com;
+X-Powered-By: ASP.NET
+:authority: www.w3schools.com
+:method: GET
+:path: /
+:scheme: https
+Accept-Encoding: gzip, deflate, br
+
+Cache-Control: no-cache
+Cookie: _ga=GA1.1.1843330699.1688621301; _pbjs_userid_consent_data=6683316680106290; _sharedID=d3dc4017-0a85-4932-8ae2-c578de397cfd; _lr_env_src_ats=false; _cc_id=2e44f236bbc559bc104db461440c7456; ASPSESSIONIDAAQTRRQT=HGIHPLODKIHLFAOPCBAEFIHH; ASPSESSIONIDCSTTTQQR=LGLBJLODEGHBFFLNAFOAGNFN; ASPSESSIONIDASTTTQQR=JBCODCBAJGFAEMDGABDKJEBG; ASPSESSIONIDCCQQQSRT=PGEDKCBAOKHJEGIMCHLDCPFK; ASPSESSIONIDAARSTRRS=JBDICGBAFMJFDBMIBMEDCCHF; ASPSESSIONIDAQTSRRRR=ODICMFBANNNCBOJMBOKMNCAJ; ASPSESSIONIDCSQTSQRQ=JAKKNKCALEABKJMOKFPGEBML; ASPSESSIONIDAARTSRRT=FLABELCANIMPOAOOAJFOIDHD; ASPSESSIONIDCAQRTSSR=IAOPPDNABDPGOCEJDECPOJHC; ASPSESSIONIDAAQSQSRS=EODDCOFAFPHKGEPMEFOFCDOP; ASPSESSIONIDAQSRSRQR=GAOKOHADDFJONBNDLFFBDAIB; ASPSESSIONIDASRSRSRQ=NDJBHMODNGAEBJMAGFCPOOLJ; ASPSESSIONIDCCTRRTQS=HLBKFKFBHHACFEMJOPNGFFFJ; _ga_9YNMTB56NB=deleted; ntvSession={"id":4069075,"placementID":1159716,"lastInteraction":1691379103521,"sessionStart":1691379103521,"sessionEndDate":1691433000000,"experiment":""}; ASPSESSIONIDCSSTTTRQ=MOBGECMDIGPDCOOMLNGOBJPP; ASPSESSIONIDCCTSQTQT=BAHALMIDPFPEHGGHBHLFKACM; ASPSESSIONIDCATTRQRS=EOEJLDJDKLMNFLELIJHFKJHJ; _sharedID_last=Fri%2C%2001%20Sep%202023%2015%3A33%3A13%20GMT; __gads=ID=04c340e246bdbeb1:T=1688621307:RT=1693582395:S=ALNI_MZX6QJzMYVFH8HL6jY9tfGsdGEM8A; __gpi=UID=00000c1e10373bfc:T=1688621307:RT=1693582395:S=ALNI_MYeuSkU9oDmLRfXCH1ZJcb55FNe1w; cto_bundle=z1BsGV9IT1l2OGNnQ0RudUhlNEVwd25RR3M0JTJGUjdQa1o2RVE3WkZiR3ZlWThFdkpqN1dEdnZoRzRVZnNlRnJHcGFtclFWQ0FmZzE4SHBkN2hSbk94dklnVUFVdEVDaEpTSnVTd0RWTXRVZXU0YUx3U0p0Ymx4eDNteTh2dkxyQ214MDlRdmJQNzdYajdvJTJCTGJvbXY1a2J2VzZXa3ZBNXZnRHRGUFcwWk9iZXdYSkRUQTVUT1RWVDZFZFN1MW8lMkJpMnc0UVlKb2pjSEVOQkVpUWxsTUt0OWlPQ2lRJTNEJTNE; cto_bundle=z1BsGV9IT1l2OGNnQ0RudUhlNEVwd25RR3M0JTJGUjdQa1o2RVE3WkZiR3ZlWThFdkpqN1dEdnZoRzRVZnNlRnJHcGFtclFWQ0FmZzE4SHBkN2hSbk94dklnVUFVdEVDaEpTSnVTd0RWTXRVZXU0YUx3U0p0Ymx4eDNteTh2dkxyQ214MDlRdmJQNzdYajdvJTJCTGJvbXY1a2J2VzZXa3ZBNXZnRHRGUFcwWk9iZXdYSkRUQTVUT1RWVDZFZFN1MW8lMkJpMnc0UVlKb2pjSEVOQkVpUWxsTUt0OWlPQ2lRJTNEJTNE; _ga_9YNMTB56NB=GS1.1.1693582393.97.1.1693582426.27.0.0
+Pragma: no-cache
+Sec-Ch-Ua: "Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+HOST : https://www.w3schools.com/
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
